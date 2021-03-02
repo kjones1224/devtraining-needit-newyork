@@ -2,8 +2,10 @@
     <sysauto_report action="INSERT_OR_UPDATE">
         <active>false</active>
         <address_list>kjones@magnumhouse.com</address_list>
+        <business_calendar/>
         <condition/>
         <conditional>false</conditional>
+        <entered_time/>
         <group_list/>
         <include_detail>false</include_detail>
         <include_with/>
@@ -36,6 +38,7 @@
         <sys_update_name>sysauto_report_24a58dbf2f9c101029a7d6ab2799b601</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2020-04-27 14:17:55</sys_updated_on>
+        <time_zone/>
         <upgrade_safe>false</upgrade_safe>
         <user_list/>
         <zip>false</zip>
